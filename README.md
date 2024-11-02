@@ -44,15 +44,15 @@ With a strong foundation in cybersecurity and Python development, I'm on a missi
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Security & Cyber Ops:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=linux,bash,wireshark,burpsuite" alt="Security Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=linux,bash,wireshark,burpsuite,metasploit,nmap,splunk" alt="Security Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Programming:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,java" alt="Programming Languages"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python" alt="Programming Languages"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp" alt="Cloud and DevOps Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,gcp,aws" alt="Cloud and DevOps Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
@@ -60,7 +60,7 @@ With a strong foundation in cybersecurity and Python development, I'm on a missi
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=linux,ubuntu,windows" alt="Operating Systems"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=linux,kali,windows" alt="Operating Systems"/></td>
     </tr>
 </table>
 
@@ -75,7 +75,6 @@ With a strong foundation in cybersecurity and Python development, I'm on a missi
 </p>
 
 
-</p>
 
 
 
