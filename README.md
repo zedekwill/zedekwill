@@ -2,10 +2,22 @@
 
 ### Hello ✡️, I'm Marcus Williams
 
-With a strong foundation in cybersecurity and Python development, I'm on a mission to make the digital world safer and more efficient. I'm passionate about building secure, practical applications, whether it's developing open-source cybersecurity tools or automating security operations. Driven by continuous learning, I'm expanding my skills in penetration testing, threat intelligence, and security operations.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&pause=1500&speed=50&lines=Focused+on+Cybersecurity+and+Python,;Building+secure+and+practical+applications,;Passionate+about+digital+safety+and+efficiency,;Expanding+skills+in+penetration+testing,;Learning+threat+intelligence+and+security+ops,;Driven+by+continuous+learning+and+growth">
+  </a>
+</p>
+<br>
 
 
-  - 🔭 Currently working on: Developing secure Python applications and learning offensive and defensive security techniques through live test runs on TryHackMe.
+
+
+
+
+<br>
+
+
+  - 🔭 Currently working on: Developing secure Python applications like a To-Do List, Random Quote Generator, and Chat Bot, while learning offensive and defensive security techniques through live test runs on TryHackMe.
   - 🌱 Currently learning: Advanced penetration testing, Python for cybersecurity applications, and Security Operations best practices.
   - 💬 Ask me about: Python programming, cybersecurity fundamentals, command-line tools, security operations, and data management.
   - ⚡ Fun fact: I get a burst of energy from chia seeds... 
